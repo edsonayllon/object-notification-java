@@ -8,7 +8,7 @@ status: complete
 twitter: https://twitter.com/relativeread
 ---
 
-## Modular 44-2020
+## Modular 45-2020
 
 # object notification java
  
