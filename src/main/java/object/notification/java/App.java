@@ -10,5 +10,8 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
+        ObjectA objA = new ObjectA();
+        System.out.println(objA.getGreeting());
     }
 }
+
